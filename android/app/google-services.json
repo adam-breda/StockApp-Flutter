@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "212749305920",
+    "project_id": "stockapp-flutter",
+    "storage_bucket": "stockapp-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212749305920:android:dbcc98b02b1351d9a237a5",
+        "android_client_info": {
+          "package_name": "com.stock_app.stock_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212749305920-jrfkp6h4u2s5pcr06kl0bd9spep8m0b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3bq-m8HxqQSCzg0ByjYZCBWpHWPRfpKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212749305920-jrfkp6h4u2s5pcr06kl0bd9spep8m0b7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212749305920-3cps361ght4r5rl78gbapl02n50h6e6g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stockapp.stockApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,97 @@
+part of 'app_pages.dart';
+// DO NOT EDIT. This is code generated via package:get_cli/get_cli.dart
+
+abstract class Routes {
+  Routes._();
+  static const HOME = _Paths.HOME;
+  static const COMPANY_DETAIL = _Paths.COMPANY_DETAIL;
+  static const LOGIN = _Paths.LOGIN;
+  static const PROFILE = _Paths.PROFILE;
+  static const PORTO = _Paths.PORTO;
+  static const LISTING = _Paths.LISTING;
+  static const SEARCH = _Paths.SEARCH;
+  static const DASHBOARD = _Paths.DASHBOARD;
+  static const PORTOFOLIO = _Paths.PORTOFOLIO;
+  static const SUBSCRIBE = _Paths.SUBSCRIBE;
+  static const ANALYST_PAGE = _Paths.ANALYST_PAGE;
+  static const REGISTER = _Paths.REGISTER;
+  static const PAYMENT = _Paths.PAYMENT;
+  static const LISTING_NEWS = _Paths.LISTING_NEWS;
+  static const NEWS = _Paths.NEWS;
+  static const NEWS_DETAIL = _Paths.NEWS_DETAIL;
+  static const TRANSAKSI = _Paths.TRANSAKSI;
+  static const TAGIHAN = _Paths.TAGIHAN;
+  static const PUBLIC_POST = _Paths.PUBLIC_POST;
+  static const PUBLIC_POST_DETAIL = _Paths.PUBLIC_POST_DETAIL;
+  // static const PROFILE_REPORT = _Paths.PROFILE_REPORT;
+  static const POST = _Paths.POST;
+  static const PORTO_ALL_DETAIL = _Paths.PORTO_ALL_DETAIL;
+  static const SUBS_MIDTRANS = _Paths.SUBS_MIDTRANS;
+  static const EDIT_POST_VIEW = _Paths.EDIT_POST_VIEW;
+  static const SUBS_AND_POST = _Paths.SUBS_AND_POST;
+  static const ISI_TECHNICAL = _Paths.ISI_TECHNICAL;
+  static const PAYMENT_PAGE_MIDTRANS = _Paths.PAYMENT_PAGE_MIDTRANS;
+  static const DETAIL_ANALYST = _Paths.DETAIL_ANALYST;
+  static const NOTIFICATION = _Paths.NOTIFICATION;
+  static const MIDTRANS = _Paths.MIDTRANS;
+  static const PAYMENT_PAGE_ADMIN_MIDTRANS = _Paths.PAYMENT_PAGE_ADMIN_MIDTRANS;
+  static const PAYMENT_ADMIN = _Paths.PAYMENT_ADMIN;
+  static const PLAN = _Paths.PLAN;
+  static const ADD_PLAN = _Paths.ADD_PLAN;
+  static const MINE_POST = _Paths.MINE_POST;
+  static const DETAIL_TECHNICAL = _Paths.DETAIL_TECHNICAL;
+  static const COMPANY_DETAIL_TABEL = _Paths.COMPANY_DETAIL_TABEL;
+  static const HISTORY_REPORT = _Paths.HISTORY_REPORT;
+  static const DETAIL_REPORT = _Paths.DETAIL_REPORT;
+  static const SUBSCRIBER_PROFILE = _Paths.SUBSCRIBER_PROFILE;
+  static const FUNDAMENTAL = _Paths.FUNDAMENTAL;
+  static const TECHNICAL = _Paths.TECHNICAL;
+}
+
+abstract class _Paths {
+  _Paths._();
+  static const HOME = '/home';
+  static const COMPANY_DETAIL = '/company-detail';
+  static const LISTING_NEWS = '/listing-news';
+  static const NEWS = '/news';
+  static const NEWS_DETAIL = '/news-detail';
+  static const LOGIN = '/login';
+  static const PROFILE = '/profile';
+  static const PORTO = '/porto';
+  static const LISTING = '/listing';
+  static const SEARCH = '/search';
+  static const DASHBOARD = '/dashboard';
+  static const PORTOFOLIO = '/portofolio';
+  static const SUBSCRIBE = '/subscribe';
+  static const ANALYST_PAGE = '/analyst-page';
+  static const REGISTER = '/register';
+  static const PAYMENT = '/payment';
+  static const TRANSAKSI = '/transaksi';
+  static const TAGIHAN = '/tagihan';
+  static const PUBLIC_POST = '/public-post';
+  static const PUBLIC_POST_DETAIL = '/public-post-detail';
+  // static const PROFILE_REPORT = '/profile-report';
+  static const POST = '/post';
+  static const PORTO_ALL_DETAIL = '/porto-all-detail';
+  static const SUBS_MIDTRANS = '/subs-midtrans';
+  static const EDIT_POST_VIEW = '/edit-post-view';
+  static const SUBS_AND_POST = '/subs-and-post';
+  static const ISI_TECHNICAL = '/isi-technical';
+  static const PAYMENT_PAGE_MIDTRANS = '/payment-page-midtrans';
+  static const DETAIL_ANALYST = '/detail-analyst';
+  static const NOTIFICATION = '/notification';
+  static const MIDTRANS = '/midtrans';
+  static const PAYMENT_PAGE_ADMIN_MIDTRANS = '/payment-page-admin-midtrans';
+  static const PAYMENT_ADMIN = '/payment-admin';
+  static const PLAN = '/plan';
+
+  static const ADD_PLAN = '/add-plan';
+  static const MINE_POST = '/mine-post';
+  static const DETAIL_TECHNICAL = '/detail-technical';
+  static const COMPANY_DETAIL_TABEL = '/company-detail-tabel';
+  static const HISTORY_REPORT = '/history-report';
+  static const DETAIL_REPORT = '/detail-report';
+  static const SUBSCRIBER_PROFILE = '/subscriber-profile';
+  static const FUNDAMENTAL = '/fundamental';
+  static const TECHNICAL = '/technical';
+}
